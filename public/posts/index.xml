@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Penelopes Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Penelopes Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Oct 2025 08:13:33 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 13 Oct 2025 08:13:33 -0700</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-home&#34;&gt;Welcome Home!&lt;/h1&gt;&#xA;&lt;p&gt;Hi!! Im so glad to have you here ❤&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me.&lt;/h2&gt;&#xA;&lt;p&gt;Hi there, If you don&amp;rsquo;t know me, I am Penelope, aka Penne_Not_Pasta!! I&amp;rsquo;m now blogging. Welcome to the shitshow that is my blog xD&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

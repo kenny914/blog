@@ -18,12 +18,12 @@ theme = "vintage-web-hugo-theme"
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 10
+  weight = 1
 
 [[menu.main]]
   name = "Posts"
   url = "/posts/"
-  weight = 20
+  weight = 2
 
 # Theme Parameters
 [params]

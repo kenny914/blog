@@ -1,5 +1,5 @@
 +++
-date = '2025-10-13T08:13:33-07:00'
+date = '2025-10-13'
 draft = false
 title = 'First Post'
 [params]

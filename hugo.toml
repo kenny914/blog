@@ -1,3 +1,53 @@
-languageCode = 'en-us'
-title = 'Penelopes Blog'
-theme = "hugo-theme-m10c"
+baseURL = "https://penne.blog"
+languageCode = "en-us"
+title = "Penelopes Blog"
+theme = "vintage-web-hugo-theme"
+
+# Pagination
+[pagination]
+  pagerSize = 10
+  path = "page"
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+
+# Theme Parameters
+[params]
+  # Site Description
+  description = "Penelopes silly little blog that nobody reads lmaooo"
+  author = "Penne Not Pasta (Penelope)"
+
+  # Content Display
+  show_featured_sections = true
+  show_stats = true
+  show_retro_elements = true
+  show_sharing = true
+
+  # Footer Options
+  show_retro_footer = true
+  show_build_info = true
+
+  # Sidebar Options
+  show_sidebar_stats = true
+  show_retro_sidebar = true
+  sidebar_content = "Penelopes silly little blog that nobody reads lmaooo"
+
+  # Social Links
+  [params.social]
+    twitter = "penne_not_pasta"
+    github = "kenny914"
+    instagram = "azte.a"

@@ -5,6 +5,6 @@
 to add a page/post:
 
 ```bash
-    cd content/posts
+    cd /Documents/blog/content/posts
     hugo new content content/posts/post-title.md
 ```

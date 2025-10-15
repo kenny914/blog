@@ -2,10 +2,8 @@
 date = '2025-10-15'
 draft = false
 title = 'My Links'
-[params]
-    author = 'Penelope (Penne)'
-[taxonomies]
-  tag = '2025, Updates'
+author = 'Penelope (Penne)'
+tag = [2025, Updates]
 +++
 
 # My Links.

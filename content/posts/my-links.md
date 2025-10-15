@@ -3,7 +3,7 @@ date = '2025-10-15'
 draft = false
 title = 'My Links'
 author = 'Penelope (Penne)'
-tag = [2025, Updates]
+tag = ['2025', 'Updates']
 +++
 
 # My Links.

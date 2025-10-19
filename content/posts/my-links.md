@@ -20,7 +20,7 @@ All of my links in one big masterlist!
 - Duolingo
 - DeviantArt
 - [Facebook](https://www.facebook.com/nyanccat/)
-- [GitHub](https://github.com/kenny914/)
+- [GitHub](https://github.com/penne-not-pasta/)
 - Goodreads
 - [Instagram](https://instagram.com/azte.a)
 - [Ko-Fi](https://ko-fi.com/R6R1V5XR6)

@@ -10,4 +10,4 @@ tag = ['2025', 'Updates']
 
 I was downloading the [*Linux Kernel*](https://github.com/torvalds/linux) when I realized that I didn't have a way to find how big it was before downloading, so I made the github repo size thingy.
 
-![Screencast demonstrating the process of determining the size of GitHub repositories. The video showcases the user interface and steps involved in checking repository sizes, with clear visual indicators and instructions. The environment appears to be a computer screen with a focus on the GitHub platform, conveying a sense of productivity and exploration.](Screencast-2025-10-21 11-52-06.mp4)
+ {{< video src="/Screencast-2025-10-21 11-52-06.mp4" type="video/webm" preload="auto" >}}

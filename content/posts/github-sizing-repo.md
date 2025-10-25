@@ -10,4 +10,4 @@ tag = ['2025', 'Updates']
 
 I was downloading the [*Linux Kernel*](https://github.com/torvalds/linux) when I realized that I didn't have a way to find how big it was before downloading, so I made the github repo size thingy.
 
-![DEMO](Screencast-2025-10-21 11-52-06.mp4)
+![Screencast-2025-10-21 11-52-06.mp4](/Screencast-2025-10-21 11-52-06.mp4)
